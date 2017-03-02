@@ -23,7 +23,7 @@ As you see from calculation method it do so many thing we can broke it's down in
 for example make calPow(double) method to do the math for the Square and getInputNum() method to get the input number
 and run() method to run the program.
 
-'''
+```
 public static double calPow(double x){
   return Math.pow(x, 2);
 }
@@ -37,7 +37,7 @@ public static double getInputNum(){
 public static void run(){
   System.out.print(calPow(getInputNum()));
 }
-'''
+```
 
 Now you can see that the method do one job.
 
@@ -52,7 +52,7 @@ don't name it like "BombTheValue". You don't need to make the method name sound 
 understand your sense of humor. You should name it like "deleteValue" which are easier to understand. Also don't use slang
 as the method name. For example "whack" to mean "kill".
 
-'''
+```
 //Example of bad naming.
 public void BombTheValue(){
   ...
@@ -61,7 +61,7 @@ public void BombTheValue(){
 public void deleteValue(){
   ...
 }
-'''
+```
 
 For the Exercise Following these Link [Exercise](https://github.com/yotharit/codeguide/tree/master/src/dontbecute).
 Reference : P.26 Chapter 2:Meaningful Name ; Clean Code by Robert C. Martin

@@ -41,7 +41,7 @@ public static void run(){
 
 Now you can see that the method do one job.
 
-For the Exercise Following these Link [Exercise](https://pages.github.com/).
+For the Exercise Following these Link [Exercise](https://github.com/yotharit/codeguide/blob/master/src/doOneThing/Exercise.java).
 
 Reference : P.35 Chapter 3:Function ; Clean Code by Robert C. Martin
 
@@ -63,5 +63,5 @@ public void deleteValue(){
 }
 '''
 
-For the Exercise Following these Link [Exercise](https://pages.github.com/).
+For the Exercise Following these Link [Exercise](https://github.com/yotharit/codeguide/tree/master/src/dontbecute).
 Reference : P.26 Chapter 2:Meaningful Name ; Clean Code by Robert C. Martin
